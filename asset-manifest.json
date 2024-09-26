@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daeya/static/css/main.0bdb6213.chunk.css",
+    "main.js": "/daeya/static/js/main.3d29027e.chunk.js",
+    "main.js.map": "/daeya/static/js/main.3d29027e.chunk.js.map",
+    "runtime-main.js": "/daeya/static/js/runtime-main.591870ab.js",
+    "runtime-main.js.map": "/daeya/static/js/runtime-main.591870ab.js.map",
+    "static/js/2.0c132223.chunk.js": "/daeya/static/js/2.0c132223.chunk.js",
+    "static/js/2.0c132223.chunk.js.map": "/daeya/static/js/2.0c132223.chunk.js.map",
+    "index.html": "/daeya/index.html",
+    "static/css/main.0bdb6213.chunk.css.map": "/daeya/static/css/main.0bdb6213.chunk.css.map",
+    "static/js/2.0c132223.chunk.js.LICENSE.txt": "/daeya/static/js/2.0c132223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.591870ab.js",
+    "static/js/2.0c132223.chunk.js",
+    "static/css/main.0bdb6213.chunk.css",
+    "static/js/main.3d29027e.chunk.js"
+  ]
+}
